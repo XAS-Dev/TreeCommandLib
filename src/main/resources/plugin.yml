@@ -1,0 +1,4 @@
+name: TreeCommandPlugin
+version: '${project.version}'
+main: xyz.xasmc.treecommandlib.TreeCommandPlugin
+api-version: '1.20'
